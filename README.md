@@ -1,7 +1,7 @@
 # Hey 👋 , I'm Aryan 
 
 
-## I'm an International student and am pursuing an advanced diploma in Computer Programming and Analysis at Seneca College, Toronto
+## An International student pursuing an Advanced Diploma in Computer Programming and Analysis at Seneca College, Toronto
 <br>
 
 - 🌱 Currently taking Harvard CS50's Web Programming using Python and JavaScript Course
