@@ -4,7 +4,7 @@
 ## An International student pursuing an Advanced Diploma in Computer Programming and Analysis at Seneca College, Toronto
 <br>
 
-- 🌱 Currently taking Tim Buchalka's Beginning C++ Programming Course
+- 🌱 Currently taking Angela Yu's Complete 2022 Web Development Bootcamp
 - 🥅 2022 Goals: I'm looking to build some projects and develop my portfolio
 
 ### Connect with me
