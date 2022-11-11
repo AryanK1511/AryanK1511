@@ -6,7 +6,7 @@
 
 - 🌱 Currently taking Angela Yu's Complete 2022 Web Development Bootcamp 
 - 👨‍💻 Learning JAVA, OOPS and DSA.
-- 🥅 2022 Goals: I'm looking to build some projects and develop my portfolio
+- 🥅 2023 Goals: I'm looking to build some projects and develop my portfolio
 
 ### Connect with me
 - [LinkedIn](https://www.linkedin.com/in/aryan-khurana-239684229/)
