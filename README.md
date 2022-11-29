@@ -4,7 +4,7 @@
 ## An International student pursuing an Advanced Diploma in Computer Programming and Analysis at Seneca College, Toronto
 <br>
 
-- 🌱 Currently taking Angela Yu's Complete 2022 Web Development Bootcamp 
+- 🌱 Recently done with Angela Yu's Complete 2022 Web Development Bootcamp 
 - 👨‍💻 Learning JAVA, OOPS and DSA.
 - 🥅 2023 Goals: I'm looking to build some projects and develop my portfolio
 
