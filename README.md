@@ -6,7 +6,7 @@
 
 - 🌱 Recently done with Angela Yu's Complete 2022 Web Development Bootcamp 
 - 👨‍💻 Learning JAVA, OOPS and DSA.
-- 🥈 2nd Year Computer Programming Student
+- 🖥️ 2nd Year Computer Programming Student
 - 🥅 2023 Goals: I'm looking to build some projects and develop my portfolio
 
 ### Connect with me
