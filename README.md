@@ -5,7 +5,7 @@
 <br>
 
 - 🌱 Recently done with Angela Yu's Complete 2022 Web Development Bootcamp 
-- 👨‍💻 Learning JAVA, OOPS and DSA.
+- 👨‍💻 Learning Python, React, C++, OOPS and DSA.
 - 🖥️ 2nd Year (3rd semester)  Computer Programming Student
 - 🥅 2023 Goals: I'm looking to build some projects and develop my portfolio
 
