@@ -1,9 +1,9 @@
 <h1 align="center">Hey 👋, I'm Aryan</h1>
 <h3 align="center">A Computer Science student and aspiring software developer</h3>
 
-- 🌱 Recently completed MS Project Course via LinkedIn Learning
-- 👨‍💻 Learning Python, React.js, Next.js, Project Management and DSA.
-- 🖥️ 2nd Year (4th semester)  Computer Programming Student
+- 🌱 Recently completed DSA in Python from Codecademy
+- 👨‍💻 Learning Python, React.js, Next.js, Project Management and DSA
+- 🖥️ Site Reliability Engineer at Royal Bank of Canada
 - 🥅 2023 Goals: I'm looking to build some projects and develop my portfolio
 
 <h3 align="left">Connect with me:</h3>
