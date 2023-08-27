@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Aryan</h1>
 <h3 align="center">A Computer Science student and aspiring software developer</h3>
 
-- 🌱 Recently completed DSA in Python from Codecademy
+- 🌱 Recently completed DSA in Python  and React.js from Codecademy
 - 👨‍💻 Learning Python, React.js, Next.js, Project Management and DSA
 - 🖥️ Site Reliability Engineer at Royal Bank of Canada
 - 🥅 2023 Goals: I'm looking to build some projects and develop my portfolio
