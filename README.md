@@ -1,5 +1,5 @@
-<h1 align="center">Hey 👋, I'm Aryan</h1>
-<h3 align="center">A Computer Science student and aspiring software developer</h3>
+# Hey 👋, I'm Aryan
+## A Computer Science student and aspiring software developer
 
 - 🌱 Recently completed DSA in Python  and React.js from Codecademy
 - 👨‍💻 Learning Python, React.js, Next.js, Azure, SRE and DSA
