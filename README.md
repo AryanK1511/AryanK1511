@@ -1,7 +1,7 @@
 # Hey! 👋, I am Aryan Khurana 
 > Passionate SRE Developer Intern @ RBC | 3<sup>rd</sup> year student @ Seneca College, Toronto | Learning DSA, open source, and DevOps
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryanK1511&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryanK1511&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :hammer_and_wrench: Tools and Technologies
 <p>
