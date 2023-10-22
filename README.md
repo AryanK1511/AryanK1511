@@ -1,5 +1,5 @@
 # Hey! 👋, I am Aryan Khurana 
-> Passionate SRE Developer Intern @ RBC | 3<sup>rd</sup> year student @ Seneca College, Toronto ON | Learning DSA, Elastic, open source, and DevOps
+> Passionate SRE Developer Intern @ RBC | 3<sup>rd</sup> year student @ Seneca College, Toronto ON | Learning DSA, Elastic, Data Science, Machine Learning, open source, and DevOps
 
 <div align="center">
     <a href="https://github.com/AryanK1511"">
