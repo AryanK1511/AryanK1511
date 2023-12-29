@@ -1,5 +1,5 @@
 # Hey! 👋, I am Aryan Khurana 
-> Passionate SRE Developer Intern @ RBC | 3<sup>rd</sup> year student @ Seneca College, Toronto ON 
+> Site Reliability Engineer Intern @ RBC | 3<sup>rd</sup> year student @ Seneca College, Toronto ON 
 
 <div align="center">
     <a href="https://github.com/AryanK1511"">
