@@ -1,15 +1,6 @@
 # Hey! 👋, I am Aryan Khurana 
 > Site Reliability Engineer Intern @ RBC | 3<sup>rd</sup> year student @ Seneca College, Toronto, ON, Canada
 
-<div align="center">
-    <a href="https://github.com/AryanK1511"">
-        <img src="https://github-readme-stats.vercel.app/api?username=AryanK1511&theme=radical" alt="Aryan's GitHub Stats">
-    </a>
-    <a href="https://github.com/AryanK1511">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanK1511&theme=radical&layout=compact" alt="Top Languages">
-    </a>
-</div>
-
 ## :hammer_and_wrench: Tools and Technologies
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
