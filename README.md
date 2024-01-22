@@ -1,15 +1,13 @@
 # Hey! 👋, I am Aryan Khurana 
 > Site Reliability Engineer Intern @ RBC | 3<sup>rd</sup> year Computer Programming student @ Seneca College, Toronto, ON, Canada
 
-<div style="display: flex;">
-    <div style="margin-right: 20px;">
-        <!-- GitHub Stats Image -->
-        <img src="https://github-readme-stats.vercel.app/api?username=AryanK1511&theme=date_night&show_icons=true" alt="Aryan's GitHub Stats" />
-    </div>
-    <div>
-        <!-- Top Languages Image -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanK1511&theme=date_night&layout=compact" alt="Top Languages" />
-    </div>
+<div align="center">
+    <a href="https://github.com/AryanK1511"">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=AryanK1511&theme=bear&show_icons=true" alt="Aryan's GitHub Stats">
+    </a>
+    <a href="https://github.com/AryanK1511">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanK1511&theme=bear&hide_progress=true&layout=compact" alt="Top Languages">
+    </a>
 </div>
 
 ## :hammer_and_wrench: Tools and Technologies
