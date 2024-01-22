@@ -1,7 +1,7 @@
 # Hey! 👋, I am Aryan Khurana 
 > Site Reliability Engineer Intern @ RBC | 3<sup>rd</sup> year Computer Programming student @ Seneca College, Toronto, ON, Canada
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<div style="display: flex;">
     <div style="margin-right: 20px;">
         <!-- GitHub Stats Image -->
         <img src="https://github-readme-stats.vercel.app/api?username=AryanK1511&theme=date_night&show_icons=true" alt="Aryan's GitHub Stats" />
