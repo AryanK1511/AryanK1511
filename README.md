@@ -1,5 +1,5 @@
 # Hey! 👋, I am Aryan Khurana 
-> SRE Intern @ RBC | 3<sup>rd</sup> year Computer Programming student @ Seneca College, Toronto
+> SRE @ RBC | 3<sup>rd</sup> year Computer Programming student @ Seneca College, Toronto
 
 <div align="center">
     <a href="https://github.com/AryanK1511"">
