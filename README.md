@@ -3,6 +3,7 @@
 </h1>
 
 <p align="center">
+  <img src="https://enkahcw3aqjzlyp.m.pipedream.net/?key=gh-AryanK1511&label=visitors&color=purple&style=flat" alt="Visitors" />
   <img src="https://img.shields.io/github/followers/AryanK1511?style=flat-square&color=blueviolet&logo=github&logoColor=white" alt="GitHub followers" />
   <img src="https://img.shields.io/youtube/channel/views/UCCrKswcxk_hCSXedUEOs7Fw?style=flat-square&color=blueviolet&logo=youtube&logoColor=white" alt="YouTube Channel Views" />
 </p>
