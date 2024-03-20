@@ -19,7 +19,7 @@
 
 <div align="center">
   <div style="display: flex; justify-content: center; align-items: center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AryanK1511&theme=radical&show_icons=true" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=AryanK1511&theme=radical&show_icons=true" alt="GitHub Stats"><br /><br />
     <a href="https://git.io/streak-stats">
       <img src="https://streak-stats.demolab.com/?user=AryanK1511&theme=radical" alt="GitHub Streak">
     </a>
