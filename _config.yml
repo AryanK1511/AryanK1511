@@ -1,0 +1,13 @@
+title: Aryan Khurana
+domain: aryank.me
+url: https://www.aryank.me
+image: https://whe.me/assets/images/seo_img.png
+tagline: Computer Science Enthusiast
+description: >-
+  Hello there, I'm @Aryan 👋
+  ( "👨‍💻 SRE Developer Intern @ RBC" | "👨‍🎓 Computer Programming @ Seneca College" )
+
+plugins:
+  - jekyll-readme-index
+  - jekyll-seo-tag
+  - github-pages

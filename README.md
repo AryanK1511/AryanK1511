@@ -10,9 +10,9 @@
   <img src="https://img.shields.io/youtube/channel/views/UCCrKswcxk_hCSXedUEOs7Fw?style=flat-square&color=blueviolet&logo=youtube&logoColor=white" alt="YouTube Channel Views" />
 </p>
 
-<pre align="center">
+<p align="center">
     ( "👨‍💻 SRE Developer Intern @ RBC" | "👨‍🎓 Computer Programming @ Seneca College" )
-</pre>
+</p>
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1LvJ_uqwFAJeLZIns1CPYcACy7vXGKJui/view?usp=sharing" target="_blank">
@@ -21,13 +21,11 @@
 </p>
 
 <div align="center">
-  <div style="display: flex; justify-content: center; align-items: center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AryanK1511&theme=radical&show_icons=true" alt="GitHub Stats"><br /><br />
-    <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com/?user=AryanK1511&theme=radical" alt="GitHub Streak">
-    </a>
-  </div>
-</div><br />
+  <img src="https://github-readme-stats.vercel.app/api?username=AryanK1511&theme=radical&show_icons=true" alt="GitHub Stats"><br />
+  <img src="https://streak-stats.demolab.com/?user=AryanK1511&theme=radical" alt="GitHub Streak">
+</div>
+
+<hr />
 
 <p align="center">
   <a href="https://aryank1511.github.io/AryanK1511/"><img alt="Website" src="https://img.shields.io/badge/Website-%23000000.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
@@ -43,5 +41,3 @@
   <a href="https://www.instagram.com/aryank1511/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://discord.gg/RyTqKhzF"><img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
-
-<hr />
