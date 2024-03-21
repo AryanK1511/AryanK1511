@@ -1,8 +1,0 @@
-title: Aryan Khurana
-domain: aryank.me
-url: https://aryank.me
-
-plugins:
-  - jekyll-readme-index
-  - jekyll-seo-tag
-  - github-pages

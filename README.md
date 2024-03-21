@@ -1,8 +1,4 @@
----
-layout: custom
----
-
-![Banner](./assets/banner.png)
+![Banner](./assets/images/banner.png)
 
 <h1 align="center">
   Hello there, I'm <a href="https://github.com/AryanK1511">@Aryan</a> 👋
