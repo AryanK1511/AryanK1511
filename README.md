@@ -1,3 +1,7 @@
+---
+layout: custom
+---
+
 ![Banner](./assets/banner.png)
 
 <h1 align="center">
