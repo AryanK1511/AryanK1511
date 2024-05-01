@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-    ( "👨‍💻 SRE Developer Intern @ RBC" | "👨‍🎓 Computer Programming @ Seneca College" )
+    ( "👨‍🎓 Computer Programming @ Seneca College" )
 </p>
 
 <p align="center">
