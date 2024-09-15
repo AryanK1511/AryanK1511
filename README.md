@@ -23,7 +23,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AryanK1511&theme=radical&show_icons=true" alt="GitHub Stats">
   <img src="https://streak-stats.demolab.com/?user=AryanK1511&theme=radical" alt="GitHub Streak">
-</div>
+</div><br />
 
 [![An image of @aryank1511's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aryank1511)](https://holopin.io/@aryank1511)
 
