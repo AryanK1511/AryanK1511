@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-    ( "👨‍🎓 Computer Programming @ Seneca College" )
+    ( "👨‍💻 Aspiring Software Dev" )
 </p>
 
 <p align="center">
