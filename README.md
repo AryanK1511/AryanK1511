@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-    ( "👨‍💻 Aspiring Software Dev" )
+    👨‍💻 Aspiring Software Dev
 </p>
 
 <p align="center">
