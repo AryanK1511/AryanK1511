@@ -34,7 +34,7 @@
   <a href="https://www.linkedin.com/in/aryan-khurana-239684229/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/AryanK1511"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://devpost.com/AryanK1511?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav"><img alt="Devpost" src="https://img.shields.io/badge/Devpost-%230072B1.svg?&style=for-the-badge&logo=devpost&logoColor=white" /></a>
-  <a href="https://dorahacks.io/user/AryanK1511"><img alt="DoraHacks" src="https://img.shields.io/badge/DoraHacks-%23FFA500.svg?&style=for-the-badge&logoColor=white" /></a>
+  <a href="https://dorahacks.io/hacker/AryanK1511"><img alt="DoraHacks" src="https://img.shields.io/badge/DoraHacks-%23FFA500.svg?&style=for-the-badge&logoColor=white" /></a>
   <a href="https://aryank1511.hashnode.dev"><img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-%23212629.svg?&style=for-the-badge&logo=hashnode&logoColor=white" /></a>
   <a href="https://leetcode.com/AryanK1511/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
   <a href="https://www.youtube.com/channel/UCCrKswcxk_hCSXedUEOs7Fw"><img alt="YouTube" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
