@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-    👨‍💻 Aspiring Software Dev
+    Site Reliability Engineer @ RBC | AI Research @ Seneca Polytechnic | SWE Fellow @ MLH
 </p>
 
 <p align="center">
