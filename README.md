@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-    Site Reliability Engineer @ RBC | AI Research @ Seneca Polytechnic | SWE Fellow @ MLH
+    Site Reliability Engineer @ RBC | AI Research @ Seneca Polytechnic
 </p>
 
 <p align="center">
