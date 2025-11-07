@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-    Site Reliability Engineer @ RBC | AI Research @ Seneca Polytechnic
+    AI Application Developer @ RBC
 </p>
 
 <p align="center">
