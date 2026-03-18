@@ -1,18 +1,16 @@
 <div align="left">
-  <table border="0" cellpadding="0" cellspacing="0" style="border: none;">
-    <tr>
-      <td align="left" width="60%" style="border: none;">
-        <strong>Hello there, I'm Aryan 👋</strong><br><br>
-        🏦 AI Application Developer @ <strong><a href="https://rbc.com">RBC</a></strong><br>
-        🚀 Co-founder @ <strong><a href="https://rezzy.dev">Rezzy</a></strong><br>
-        📍 Toronto, Canada<br><br>
-        Passionate about tech and startups. I love tinkering with things and building stuff.
-      </td>
-      <td align="right" width="40%" style="border: none;">
-        <img src="assets/images/readme-gif.gif" width="400" />
-      </td>
-    </tr>
-  </table>
+  <div style="display: grid; grid-template-columns: 1fr auto; gap: 2rem; align-items: center; margin-bottom: 2rem;">
+    <div>
+      <strong>Hello there, I'm Aryan 👋</strong><br><br>
+      🏦 AI Application Developer @ <strong><a href="https://rbc.com">RBC</a></strong><br>
+      🚀 Co-founder @ <strong><a href="https://rezzy.dev">Rezzy</a></strong><br>
+      📍 Toronto, Canada<br><br>
+      Passionate about tech and startups. I love tinkering with things and building stuff.
+    </div>
+    <div>
+      <img src="assets/images/readme-gif.gif" width="400" />
+    </div>
+  </div>
 </div>
 
 <div align="left">
