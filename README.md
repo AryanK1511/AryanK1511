@@ -1,14 +1,14 @@
-<div align="left">
+<div align="center">
 
-<img src="assets/images/readme-gif.gif" width="400" align="right" />
+# Hello there, I'm Aryan 👋
 
-**Hello there, I'm Aryan 👋**
-
-🏦 AI Application Developer @ **[RBC](https://rbc.com)**  
-🚀 Co-founder @ **[Rezzy](https://rezzy.dev)**  
-📍 Toronto, Canada
+🏦 AI Application Developer @ **[RBC](https://rbc.com)** · 🚀 Co-founder @ **[Rezzy](https://rezzy.dev)** · 📍 Toronto, Canada
 
 Passionate about tech and startups. I love tinkering with things and building stuff.
+
+<img src="assets/images/readme-gif.gif" width="400" />
+
+<br />
 
 <a href="https://www.linkedin.com/in/aryank1511/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://www.instagram.com/aryansyaptown/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
